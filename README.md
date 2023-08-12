@@ -1,4 +1,6 @@
 # image-viewer-app
+          python image_viewer.py
+
 Installation
     1. Ensure you have Python 3.x installed on your system.
     2. Open a terminal/command prompt.
