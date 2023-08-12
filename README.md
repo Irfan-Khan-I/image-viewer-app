@@ -1,5 +1,12 @@
 # image-viewer-app
-      python image_viewer.py
+Installation
+    1. Ensure you have Python 3.x installed on your system.
+    2. Open a terminal/command prompt.
+    3. Navigate to the directory where the image_viewer.py file is located.
+    4. Run the app by entering the following command:
+          python image_viewer.py
+ 
+      
 Introduction
 The Image Viewer App is a Python-based graphical user interface (GUI) application that allows users to load, navigate, and zoom images. The app is built using the tkinter library for creating the user interface and the PIL (Pillow) library for image processing and display.
 
@@ -8,14 +15,6 @@ The Image Viewer App provides the following features:
     1. Load Image: Users can load images from their local file system using the "Load Image" button.
     2. Navigation: Users can navigate between loaded images using "Previous" and "Next" buttons.
     3. Zoom In and Out: Users can zoom in and out of images using the "Zoom In" and "Zoom Out" buttons.
-
-
-Installation
-    1. Ensure you have Python 3.x installed on your system.
-    2. Open a terminal/command prompt.
-    3. Navigate to the directory where the image_viewer.py file is located.
-    4. Run the app by entering the following command:
-      python image_viewer.py
 
       
 How to Use
